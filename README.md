@@ -66,11 +66,11 @@ Need kasutajad on mõeldud ainult õppeprojekti testimiseks.
 ### 1. Repositooriumi kloonimine
 
 ```bash
-git clone REPOSITORY_URL
+git clone https://github.com/melon3000/JSON-Web-Token
 cd jwt-project
 ```
 
-Asenda `REPOSITORY_URL` enda GitHubi repositooriumi aadressiga.
+Asenda `https://github.com/melon3000/JSON-Web-Token` enda GitHubi repositooriumi aadressiga.
 
 ### 2. Sõltuvuste paigaldamine
 
